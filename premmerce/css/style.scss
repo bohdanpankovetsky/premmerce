@@ -164,6 +164,11 @@ $imgsize: 660px;
 		display: none !important;
 	}
 }
+@media (min-width: 800px) {
+	.b_smallmenu {
+		display: none !important;
+	}
+}
 .b_smallmenu__icon {
 	display: none;
 }
